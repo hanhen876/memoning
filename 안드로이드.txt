@@ -1,0 +1,12 @@
+안드로이드 5=제일 최신꺼
+안드로이드 5=바탕화면 설정
+안드로이드 2= 156~157
+파일->open->my application->res->layout->activity
+안드로이드 6=체크박스
+안드로이드 9=2-5
+C:\Users\hanhe\AndroidStudioProjects\MyApplication1\app\src\test\java\com\example\myapplication1
+안드로이드=인방갤 및 아프리카 첫화면
+안드로이드 10 458~461
+안드로이드 11 235~245
+안드로이드 12 246~254
+안드로이드 8 여러화면 전환
